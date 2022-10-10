@@ -1,12 +1,29 @@
 
 
-a:hover{
+a{
     color:dodgerblue;
+    background-color: coral;
+}
+
+a:hover{
+    background-color:dodgerblue;
+    color: coral;
 }
 
 #titleHeader{
     background-color: black;
     color: coral;
     padding: 50px;
+    margin-top: 5px;
+    border: 2px coral;
+    text-align: center;
+}
+
+.paragraph{
+    background-color: coral;
+    color: black;
+    border: 2px black;
+    padding: 20px;
+    margin: 20px;
     text-align: center;
 }
