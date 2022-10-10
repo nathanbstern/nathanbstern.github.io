@@ -3,3 +3,10 @@
 a:hover{
     color:dodgerblue;
 }
+
+#titleHeader{
+    background-color: black;
+    color: coral;
+    padding: 50px;
+    text-align: center;
+}
