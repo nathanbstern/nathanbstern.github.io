@@ -1,10 +1,4 @@
 
-
-a{
-    color:dodgerblue;
-    background-color: coral;
-}
-
 a:hover{
     background-color:dodgerblue;
     color: coral;
@@ -19,11 +13,3 @@ a:hover{
     text-align: center;
 }
 
-.paragraph{
-    background-color: coral;
-    color: black;
-    border: 2px black;
-    padding: 20px;
-    margin: 20px;
-    text-align: center;
-}
